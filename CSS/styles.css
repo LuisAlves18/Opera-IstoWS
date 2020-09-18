@@ -1,6 +1,6 @@
 .navbar-default {
     position: absolute;
-    color:white;
+    color:black;
 }
 #logo{
  width:7vw;
@@ -8,12 +8,7 @@
 }
 a.nav-link{
     margin-left: 6vw;
-    color: white;
+    color: black;
     font-family:Oswald;
     font-size: 1.5vw;
-}
-
-#card-photo{
-    height: 200px;
-    width: 250px;
 }
