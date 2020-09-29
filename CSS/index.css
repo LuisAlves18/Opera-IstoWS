@@ -3,17 +3,23 @@
     color:white;
 }
 #logo{
- width:7vw;
+ width:9vw;
  margin:2vh 0 0 3vw;
 }
 a.nav-link{
     margin-left: 6vw;
     color: white;
-    font-family:Oswald;
+    font-family:Oswald extralight;
     font-size: 1.5vw;
 }
-
-#card-photo{
-    height: 200px;
-    width: 250px;
+.dropdown-menu{
+    font-family:Oswald;
+}
+.dropdown-item:active{
+    color:black;
+    background-color: white;
+}
+#title{
+    font-family: Oswald;
+    margin: 2vh; 
 }

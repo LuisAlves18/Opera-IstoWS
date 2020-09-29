@@ -1,14 +1,25 @@
+nav{
+    margin-bottom: 6vh;
+}
 .navbar-default {
-    position: absolute;
+   
     color:black;
 }
 #logo{
- width:7vw;
- margin:2vh 0 0 3vw;
-}
+    width:9vw;
+    margin:2vh 0 0 3vw;
+   }
 a.nav-link{
     margin-left: 6vw;
     color: black;
-    font-family:Oswald;
+    font-family:Oswald extralight;
     font-size: 1.5vw;
+}
+.dropdown-menu{
+    font-family:Oswald;
+}
+a.nav-link:hover{
+    border-radius: 0 28px 0 28px;
+    color: white;
+    background-color: black;
 }
